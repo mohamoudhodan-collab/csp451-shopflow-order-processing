@@ -24,8 +24,7 @@ Due to lab policy restrictions, Cosmos DB could not be fully implemented. The ar
 5. Workflow runs automatically  
 
 ## Architecture Diagram
-(Add your image here after upload)
-
+![Architecture Diagram](architecture%20diagram.png)
 ## Demo Evidence
 - Function returned 200 OK  
 - Service Bus received message  
